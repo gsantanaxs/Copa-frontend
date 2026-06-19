@@ -1,4 +1,4 @@
-const API_URL = 'https://copa-backend-2.vercel.app/' // URL do backend publicado na Vercel
+const API_URL = 'https://copa-backend-2.vercel.app/api'
 
 class API {
     constructor() {
